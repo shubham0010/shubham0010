@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Mishra 
-- 👀 I’m interested in programming and dbms and da
+- 👀 I’m interested in programming and dbms,Data Analysis ,python and java
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
